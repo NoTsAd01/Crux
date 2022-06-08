@@ -1,8 +1,4 @@
 <div align="center">
-<a href="https://github.com/Elitex07"><img src='/RAIDEN INFO.png' height = 50% width = 50%>
-</div>
-  
-<div align="center">
 <h1 align="center">Hi <img width="35" src="/waving.gif">, I'm Priyanshu</h1>
 <h4 align="center"></h4>
 <p align="center">
