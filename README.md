@@ -47,24 +47,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elitex07&langs_count=6&theme=dark&layout=compact&hide_border=true&count_private=true&show_icons=true&hide_title=true "/>
 </a>
 </p>
-
-
- <p align="center">
-  <a href="github.com/Elitex07" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/visits/Elitex07/Elitex07?style=for-the-badge&color=e74c3c&logo=github&label=Spying+Counter"
-     alt="spying counter" /></a>
-  <a href="github.com/Elitex07" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/years/Elitex07/?style=for-the-badge&color=27a4fb&logo=github&label=Account+Age"
-     alt="account age" /></a>
-  </p>
-  <p align="center">
-  <a href="github.com/Elitex07" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/updated/Elitex07/Elitex07?style=for-the-badge&color=ff00b4&logo=github&label=Profile+Updated"
-     alt="updated" /></a>
-  <a href="github.com/Elitex07" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/repos/Elitex07/?style=for-the-badge&color=251ee7&logo=github&label=Public+Repos"
-     alt="repos" /></a>
- </p>
 <!--
 **Elitex07/Elitex07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
