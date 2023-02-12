@@ -3,7 +3,7 @@
 <div align="center">
 <h3 align="center">Hey there, I'm Elitex07 <img width="35" src="/waving.gif"></h1>
 <p align="center">
-  <a href="https://raiden.ml/support"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-blue?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://raidenbot.xyz/support"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-blue?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://github.com/Elitex07"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/-github-white?style=for-the-badge&logo=github&logoColor=black"/></a>
 </p>
 </div>
@@ -20,7 +20,7 @@ I'm Elitex, the guy who own <a href='https://top.gg/bot/911833727301189684'>Raid
 ## 🛠 &nbsp;Working With
 
 <p align="left">
-<a href='https://raiden.ml/support'>
+<a href='https://raidenbot.xyz/support'>
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
@@ -38,7 +38,7 @@ I'm Elitex, the guy who own <a href='https://top.gg/bot/911833727301189684'>Raid
 
 Enjoy playing Minecraft in 24/7 Server with your friends and show off your playlists at Music Nights.
 
-[![Community](https://discordapp.com/api/guilds/890225986375929866/widget.png?style=banner2)](https://raiden.ml/support)
+[![Community](https://discordapp.com/api/guilds/890225986375929866/widget.png?style=banner2)](https://raidenbot.xyz/support)
 
 Needs help with creating your own Discord Bot ? We are here to help
 
