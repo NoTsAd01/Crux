@@ -14,7 +14,7 @@ I'm Elitex, the guy who own <a href='https://top.gg/bot/911833727301189684'>Raid
 
 - :muscle:  Currently upgrading Raiden bot and adding more features to it.
 - :trophy: Got a Trophy regarding Defensive Mid Fielding in Soccer
-- :dart: To Crack IIT-JEE 2023
+- :dart: To Learn Reactjs and other web developement things
 
 
 ## 🛠 &nbsp;Working With
