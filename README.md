@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://tenor.com/view/programmers-go-internet-technologists-researching-technologist-gif-3757206632821927062" height="175px"/></a>
 
 <div align="center">
 <h3 align="center">Hey there, I'm Elitex07 <img width="35" src="/waving.gif"></h1>
